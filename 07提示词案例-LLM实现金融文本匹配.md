@@ -2,3 +2,6 @@
 ![alt text](./image/promot/image-8.png)
 ## Prompt设计
 ![alt text](./image/promot/image-9.png)
+## 代码设计
+![alt text](./image/promot/image-10.png)
+![alt text](./image/promot/image-11.png)
